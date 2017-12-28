@@ -4,8 +4,8 @@
 		"name":			"ChangeID",				// as appears in 'insert object' dialog, can be changed as long as "id" stays the same
 		"id":			"ChangeID",				// this is used to identify this plugin and is saved to the project; never change it
 		"version":		"1.0",					// (float in x.y format) Plugin version - C2 shows compatibility warnings based on this
-		"description":	"<appears at the bottom of the insert object dialog>",
-		"author":		"<your name/organisation>",
+		"description":	"Function to replace a CSS ID in an object.",
+		"author":		"ThndrShk2k",
 		"help url":		"<your website or a manual entry on Scirra.com>",
 		"category":		"General",				// Prefer to re-use existing categories, but you can set anything here
 		"type":			"object",				// either "world" (appears in layout and is drawn), else "object"
